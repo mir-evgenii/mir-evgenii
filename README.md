@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello👋 I am Eugene.
+
+Sometimes I write code. In the main backend on PHP. I also like to code in Python.
+
+- :elephant: PHP
+
+
 
 <!--
 **mir-evgenii/mir-evgenii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
