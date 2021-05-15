@@ -6,7 +6,7 @@ In the last project, I wrote a **peer-to-peer messenger** using **WebRTC**.
 Users use public PGP keys instead of names.
 A [signaling server](https://github.com/mir-evgenii/signaling_server) is used to establish a peer-to-peer connection.
 The [messenger client](https://github.com/mir-evgenii/messenger_client_app) supports video and audio calls.
-Signal server running in **[Docker](https://github.com/mir-evgenii/doc_web_app "docker-compose config")**.
+Signal server running in [Docker](https://github.com/mir-evgenii/doc_web_app "docker-compose config").
 
 I also wrote a [simple messenger client](https://github.com/mir-evgenii/messenger_desktop_app) using my signaling server.
 
