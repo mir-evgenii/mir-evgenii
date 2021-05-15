@@ -1,6 +1,6 @@
 ### Hello👋 I am Eugene.
 
-Sometimes I write code. In the main backend on **PHP**. I also like to code in **Python**.
+Sometimes I write code. In the main **backend** on **PHP**. I also like to code in **Python**.
 
 In the last project, I wrote a **peer-to-peer messenger** using **WebRTC**.
 Users use public PGP keys instead of names.
