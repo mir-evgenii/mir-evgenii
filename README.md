@@ -6,8 +6,7 @@
 
 #### Short biography:
 
-- In 2014 I started making web pages using HTML and CSS.
-- In 2015 I started learning programming in PHP. I wrote a simple CMS. I was engaged in educational projects until 2017.
+- In 2015 I started learning programming in PHP, coded CMS. Continued to study programming at the university.
 - Worked in a closed project from 2017 - 2018 using Python and Linux as an Intern developer.
 - Since 2019 I have been working as a Test Engineer and Intern PHP developer.
 
