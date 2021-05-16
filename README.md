@@ -1,6 +1,15 @@
 ### Hello👋 I am Eugene.
 
-Sometimes I write code. In the main **backend** on **PHP**. I also like to code in **Python**.
+#### Sometimes I write code. In the main **backend** on **PHP**. I also like to code in **Python**.
+
+#### Short biography:
+
+- In 2014 I started making web pages using HTML and CSS.
+- In 2015 I started learning programming in PHP. I wrote a simple CMS. I was engaged in educational projects until 2017.
+- Worked in a closed project from 2017 - 2018 using Python and Linux as an Intern developer.
+- Since 2019 I have been working as a Test Engineer and Intern PHP developer.
+
+#### The last projects:
 
 In the last project, I wrote a **peer-to-peer messenger** using **WebRTC**.
 Users use public PGP keys instead of names.
@@ -10,7 +19,7 @@ Signal server running in [Docker](https://github.com/mir-evgenii/doc_web_app "do
 
 I also wrote a [simple messenger client](https://github.com/mir-evgenii/messenger_desktop_app) using my signaling server.
 
-Skills:
+#### Skills:
 
 - :elephant: PHP 5/10
 - Bash/Linux 4/10
