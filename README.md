@@ -1,4 +1,4 @@
-### Hello👋 I am Eugene.
+### Hello! I am Evgenii.
 
 #### Sometimes I write code. In the main backend on PHP. I also like to code in Python.
 
@@ -21,10 +21,4 @@ I also wrote a [simple messenger client](https://github.com/mir-evgenii/messenge
 
 #### Skills:
 
-- :elephant: PHP 5/10
-- Bash/Linux 4/10
-- :snake: Python 3/10
-- Git 3/10
-- Docker 2/10
-- Frontend (HTML, CSS, Bootstrap) 2/10
-- JS 1/10 (I rarely write in JS)
+`PHP` `Yii` `Linux` `Python` `Git` `Docker` `SQL` `HTML` `CSS` `Bootstrap` `JS`
