@@ -6,7 +6,7 @@
 
 #### Short biography:
 
-- In 2015 I started learning programming in PHP, coded CMS. Continued to study programming at the university.
+- In 2015 I started learning programming in PHP, coded CMS. Studied programming at the university.
 - Worked in a closed project from 2017 - 2018 using Python and Linux as an Intern developer.
 - Since 2019 I have been working as a Test Engineer and Intern PHP developer.
 
