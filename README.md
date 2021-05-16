@@ -2,12 +2,16 @@
 
 #### Sometimes I write code. In the main backend on PHP. I also like to code in Python.
 
+---
+
 #### Short biography:
 
 - In 2014 I started making web pages using HTML and CSS.
 - In 2015 I started learning programming in PHP. I wrote a simple CMS. I was engaged in educational projects until 2017.
 - Worked in a closed project from 2017 - 2018 using Python and Linux as an Intern developer.
 - Since 2019 I have been working as a Test Engineer and Intern PHP developer.
+
+---
 
 #### The last projects:
 
@@ -19,6 +23,12 @@ Signal server running in [Docker](https://github.com/mir-evgenii/doc_web_app "do
 
 I also wrote a [simple messenger client](https://github.com/mir-evgenii/messenger_desktop_app) using my signaling server.
 
+---
+
 #### Skills:
 
 `PHP` `Yii` `Linux` `Python` `Git` `Docker` `SQL` `HTML` `CSS` `Bootstrap` `JS`
+
+---
+
+:e-mail: mir-evgenii@mail.ru
