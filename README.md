@@ -32,4 +32,4 @@ I also wrote a [simple messenger client](https://github.com/mir-evgenii/messenge
 
 ---
 
-:e-mail: mir-evgenii@mail.ru
+:e-mail: mir-...
