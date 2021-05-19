@@ -28,6 +28,8 @@ I also wrote a [simple messenger client](https://github.com/mir-evgenii/messenge
 
 `PHP` `Yii` `Linux` `Python` `Git` `Docker` `SQL` `HTML` `CSS` `Bootstrap` `JS`
 
+![Codewars](https://www.codewars.com/users/Yugene/badges/small)
+
 ---
 
 :e-mail: mir-evgenii@mail.ru
