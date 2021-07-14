@@ -6,30 +6,20 @@
 
 #### Short biography:
 
-- In 2015 I started learning programming in PHP. Studied programming at the university.
-- Worked in a closed project from 2017 - 2018 using Python and Linux as an Intern developer.
+- In 2015 I started to study programming at the university.
+- Worked in a university project from 2017 - 2018 using Python and Linux as an Intern developer.
 - Since 2019 I have been working as a Test Engineer and Intern PHP developer.
 
 ---
 
-#### The last projects:
+#### The last project:
 
-In the last project, I wrote a peer-to-peer messenger using WebRTC.
-Users use public PGP keys instead of names.
-A [signaling server](https://github.com/mir-evgenii/signaling_server) is used to establish a peer-to-peer connection.
-The [messenger client](https://github.com/mir-evgenii/messenger_client_app) supports video and audio calls.
-Signal server running in [Docker](https://github.com/mir-evgenii/doc_web_app "docker-compose config").
-
-I also wrote a [simple messenger client](https://github.com/mir-evgenii/messenger_desktop_app) using my signaling server.
+In the [last project](https://github.com/mir-evgenii/note), I was developing a service for sending notes to Telegram. For development I used PHP framework Laravel and Bootstrap. As part of this project, I implemented a web service with authentication, implemented CRUD functions for notes and users, Telegram bot, wrote autotests using Dusk.
 
 ---
 
 #### Skills:
 
-`PHP` `Yii` `Linux` `Python` `Git` `Docker` `SQL` `HTML` `CSS` `Bootstrap` `JS`
+`PHP` `Yii` `Laravel` `Linux` `Python` `Git` `Docker` `SQL` `HTML` `CSS` `Bootstrap` `JS`
 
 ![Codewars](https://www.codewars.com/users/Yugene/badges/small)
-
----
-
-:e-mail: mir-...
