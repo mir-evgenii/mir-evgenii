@@ -1,6 +1,6 @@
 ### Hello! I am Evgenii.
 
-#### Sometimes I write code. In the main backend on PHP. I also like to code in Python.
+#### Sometimes I write code. In the main backend on PHP and Perl. I also like to code in Python.
 
 ---
 
