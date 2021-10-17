@@ -21,6 +21,6 @@ In the [last project](https://github.com/mir-evgenii/note), I was developing a s
 
 #### Skills:
 
-`PHP` `Yii` `Laravel` `Linux` `Python` `Git` `Docker` `SQL` `HTML` `CSS` `Bootstrap` `JS`
+`PHP` `Yii` `Laravel` `Linux` `Python` `Perl` `Git` `Docker` `SQL` `HTML` `CSS` `Bootstrap` `JS`
 
 ![Codewars](https://www.codewars.com/users/Yugene/badges/small)
