@@ -9,7 +9,8 @@
 - In 2015 I started to study programming at the university.
 - Worked in a university project from 2017 - 2018 using Python and Linux as an Intern developer.
 - In 2019 - 2021 worked as a Test Engineer and Intern PHP developer.
-- Since 2021 I have been working as a Perl developer in payment system.
+- In 2021 - 2022 worked as a Perl developer in payment system.
+- Since 2022 I have been working as a php developer in a startup in the service sector.
 
 ---
 
