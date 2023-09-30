@@ -4,6 +4,12 @@
 
 ---
 
+[My profile on codewars](https://www.codewars.com/users/Yugene)
+
+![Codewars](https://www.codewars.com/users/Yugene/badges/large) 
+
+---
+
 #### Short biography:
 
 - In 2015 I started to study programming at the university.
@@ -28,7 +34,5 @@
 #### Skills:
 
 `PHP` `Yii` `Laravel` `Linux` `Python` `Perl` `Git` `Docker` `SQL` `HTML` `CSS` `Bootstrap` `JS`
-
-![Codewars](https://www.codewars.com/users/Yugene/badges/small)
 
 [My console site](https://mir-evgenii.github.io/)
