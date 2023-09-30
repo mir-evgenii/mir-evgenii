@@ -1,6 +1,6 @@
-### Hi! I am Yugene.
+## Hi! I am Yugene.
 
-#### Sometimes I write code. In the main backend on PHP and Perl. I also like to code in Python.
+**Sometimes I write code. In the main backend on PHP and Perl. I also like to code in Python.**
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-#### Short biography:
+**Short biography:**
 
 - In 2015 I started to study programming at the university.
 - Worked in a university project from 2017 - 2018 using Python and Linux as an Intern developer.
@@ -21,7 +21,7 @@
 
 ---
 
-#### The last projects:
+**The last projects:**
 
 - [Shorty](https://github.com/mir-evgenii/shorty) - service for shortening links. Using: `PHP` `Laravel` `MySQL` `Docker`.
 
@@ -31,7 +31,7 @@
 
 ---
 
-#### Skills:
+**Skills:**
 
 `PHP` `Yii` `Laravel` `Linux` `Python` `Perl` `Git` `Docker` `SQL` `HTML` `CSS` `Bootstrap` `JS`
 
