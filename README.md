@@ -17,7 +17,7 @@
 - In 2019 - 2021 worked as a Test Engineer and Intern PHP developer.
 - In 2021 - 2022 worked as a Perl developer in payment system.
 - In 2022 - 2023 worked as a PHP developer in a startup in the service sector.
-- In 2023 I worked as a PHP developer in bank for half a year.
+- In 2023 I worked as a PHP developer in bank.
 - Since 2023 I have been working as a PHP developer in a fintech startup.
 
 ---
