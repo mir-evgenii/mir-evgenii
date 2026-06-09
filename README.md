@@ -45,7 +45,7 @@ Service for sending notes to Telegram. As part of this project, I implemented a 
 #### 🔒 Peer-to-Peer WebRTC Messenger
 A secure, serverless messenger utilizing PGP keys for user authentication instead of traditional accounts or phone numbers.
 *   **Architecture & Features:** Real-time video/audio communication, fully Dockerized environment, custom lightweight signaling server.
-*   **Tech Stack:** WebRTC, PGP Cryptography, Docker, [Signaling Server](https://github.com/mir-evgenii/signaling_server), [Web client](https://github.com/mir-evgenii/webrtc_messenger_client), [Dockerized environment](https://github.com/mir-evgenii/doc_web_app), [Desktop client](https://github.com/mir-evgenii/messenger_desktop_app).
+*   **Tech Stack:** WebRTC, PGP Cryptography, Docker, [Signaling Server Repo](https://github.com/mir-evgenii/signaling_server), [Web Client Repo](https://github.com/mir-evgenii/webrtc_messenger_client), [Dockerized Environment Repo](https://github.com/mir-evgenii/doc_web_app), [Desktop Client Repo](https://github.com/mir-evgenii/messenger_desktop_app).
 
 ---
 
@@ -59,5 +59,4 @@ A secure, serverless messenger utilizing PGP keys for user authentication instea
 
 ### 📫 Connect with me
 
-**💼 [LinkedIn](https://www.linkedin.com/in/mir-evgenii)**  
-**✉️ [Email](mailto:mir-evgenii@mail.ru)**
+**💼 [LinkedIn](https://www.linkedin.com/in/mir-evgenii)**
