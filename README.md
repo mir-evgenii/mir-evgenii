@@ -34,6 +34,11 @@ Focused on translating business processes into clear, maintainable, and scalable
 
 ### 💻 Featured Open-Source Projects
 
+#### 🐘 [liboqs-php](https://github.com/mir-evgenii/liboqs-php)
+PHP library for post-quantum cryptography, protecting data against future attacks from quantum computers. It provides NIST-standardized ML-KEM (Kyber) key encapsulation and ML-DSA (Dilithium) digital signatures. The library uses FFI bindings to liboqs, so no PHP extension compilation is required — just install it via Composer. It also ships a ready-made hybrid encryption class (ML-KEM + HKDF + AES-256-GCM) for encrypting real-world data. The project is covered by PHPUnit tests and is well suited both for learning post-quantum cryptography and for experimenting in real PHP applications.
+* **Tech Stack:** PHP 8.1+, FFI, liboqs, PHPUnit, ML-KEM / Kyber, ML-DSA / Dilithium, HKDF, AES-256-GCM
+, Composer.
+
 #### 🔗 [Shorty](https://github.com/mir-evgenii/shorty)
 Link shortening service. Fully Dockerized environment. Full E2E testing and documentation.
 *   **Tech Stack:** PHP 8.x, Laravel, MySQL, Docker.
