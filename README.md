@@ -43,10 +43,6 @@ PHP library for post-quantum cryptography, protecting data against future attack
 Link shortening service. Fully Dockerized environment. Full E2E testing and documentation.
 *   **Tech Stack:** PHP 8.x, Laravel, MySQL, Docker.
 
-#### 📝 [Note](https://github.com/mir-evgenii/note)
-Service for sending notes to Telegram. As part of this project, I implemented a web service with authentication, implemented CRUD functions for notes and users, Telegram bot, wrote autotests using Dusk.
-*   **Tech Stack:** PHP, Laravel, Bootstrap, Dusk. 
-
 #### 🔒 Peer-to-Peer WebRTC Messenger
 A secure, serverless messenger utilizing PGP keys for user authentication instead of traditional accounts or phone numbers.
 *   **Architecture & Features:** Real-time video/audio communication, fully Dockerized environment, custom lightweight signaling server.
