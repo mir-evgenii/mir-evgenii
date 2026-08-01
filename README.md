@@ -14,8 +14,8 @@ Focused on translating business processes into clear, maintainable, and scalable
 *   **Fintech Startup** (2023 - Present) — *PHP Developer*
 *   **Bank** (2023) — *PHP Developer*
 *   **Service Sector Startup** (2022 - 2023) — *PHP Developer*
-*   **Payment System Company** (2021 - 2022) — *Perl Developer*
-*   **QA & PHP Intern** (2019 - 2021) — *Test Engineer / PHP Developer Intern*
+*   **Payment System Company** (2021 - 2022) — *Software Developer (Perl, PHP)*
+*   **QA & PHP Intern** (2019 - 2021) — *QA Engineer*
 *   **University Research Project** (2017 - 2018) — *Python / Linux Developer Intern*
 
 ---
